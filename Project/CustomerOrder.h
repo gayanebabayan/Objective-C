@@ -1,13 +1,3 @@
-// Final Project:       MS-2
-// File:                CostomerOrder.h
-// Name:                Gayane Babayan
-// Seneca Student ID:   107-061-160
-// Seneca email:        gbabayan@myseneca.ca
-// Date of completion:  23-Nov-2018
-//
-// I confirm that I am the only author of this file
-// and the content was created entirely by me.#pragma once
-
 #ifndef MS2_CUSTOMER_ORDER_H
 #define MS2_CUSTOMER_ORDER_H
 
