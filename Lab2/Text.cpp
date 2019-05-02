@@ -1,8 +1,3 @@
-// Workshop: Lab-2
-// File: Text.cpp
-// Date: 16-Sept-2018
-// Name: Gayane Babayan
-
 #include <iostream>
 #include <cstring>
 #include <fstream>
