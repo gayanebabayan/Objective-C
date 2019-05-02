@@ -1,8 +1,3 @@
-// Workshop: Lab-3
-// File: Pair.h
-// Date: 23-Sept-2018
-// Name: Gayane Babayan
-
 #ifndef SICT_PAIR_H
 #define SICT_PAIR_H
 
