@@ -1,7 +1,5 @@
 // Workshop 5 - Lambda Expression
-// 345_w5.cpp
-// Chris Szalwinski & Dr. Elliott Coleshill
-// 2018-08-22
+// w5.cpp
 
 #include <iostream>
 #include "Grades.h"
@@ -47,7 +45,7 @@ int main(int argc, char* argv[]) {
          else if (numerGr >= 50) { return convert(D); }
          else if (numerGr >= 0)  { return convert(F); }
          else {
-            throw "Some error occurs!";                           // ask about the error handling staff ?
+            throw "Some error occurs!";                           
          }
       };
 
@@ -69,7 +67,7 @@ int main(int argc, char* argv[]) {
          else if (numerGr >= 55) { return convert(Dplus); }
          else if (numerGr >= 50) { return convert(D); }
          else {
-            throw "Some error occurs!";                           // ask about the error handling staff ?
+            throw "Some error occurs!";                           
          }
       };
    */   
@@ -82,13 +80,6 @@ int main(int argc, char* argv[]) {
       // catches the thrown error message
       //cout << "Error msg: Something went wrong while converting the numeric grades!" << endl;
       cout << '\0' << endl;
-   }
-
-   
-   
-
-
-
-       
+   }       
    return 0;
 }
