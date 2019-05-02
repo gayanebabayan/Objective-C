@@ -1,14 +1,3 @@
-// Final Project:       MS-3
-// File:                LineManager.h
-// Name:                Gayane Babayan
-// Seneca Student ID:   107-061-160
-// Seneca email:        gbabayan@myseneca.ca
-// Date of completion:  29-Nov-2018
-//
-// I confirm that I am the only author of this file
-// and the content was created entirely by me.
-
-
 #ifndef MS3_LINEMANAGER_H
 #define MS3_LINEMANAGER_H
 
