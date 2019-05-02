@@ -1,0 +1,7 @@
+Default Constructor       7111 nanoseconds - a.size = 0
+Custom Constructor  9510652453 nanoseconds - b.size = 124457
+Copy Assignment      346939929 nanoseconds - a.size = 124457
+Move Assignment            395 nanoseconds - a.size = 124457
+Copy Constructor     353414996 nanoseconds - c.size = 124457
+Move Constructor           395 nanoseconds - d.size = 124457
+Destructor           371855307 nanoseconds

@@ -1,0 +1,5 @@
+﻿  Text.cpp
+c:\users\gayane\desktop\3rd semester\oop345\week-2\lab2\lab2\text.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\gayane\desktop\3rd semester\oop345\week-2\lab2\lab2\text.cpp(88): warning C4018: '<': signed/unsigned mismatch
+  Lab2.vcxproj -> C:\Users\Gayane\Desktop\3rd Semester\OOP345\week-2\Lab2\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Gayane\Desktop\3rd Semester\OOP345\week-2\Lab2\Lab2\Debug\Lab2.pdb (Full PDB)
