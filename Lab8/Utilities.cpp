@@ -1,10 +1,3 @@
-// Workshop: Lab-8
-// File: Utilities.cpp
-// Date: 15-Nov-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
-
 #include <memory>
 #include "List.h"
 #include "Element.h"
