@@ -1,11 +1,3 @@
-// Final Project:       MS-3
-// File:                ms3_prof.cpp
-// Name:                Gayane Babayan
-// Seneca Student ID:   107-061-160
-// Seneca email:        gbabayan@myseneca.ca
-
-
-
 #include <iostream>
 #include <fstream>
 #include <string>
