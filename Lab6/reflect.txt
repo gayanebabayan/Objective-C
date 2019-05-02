@@ -1,0 +1,15 @@
+// Workshop: Lab-6
+// File: reflect.txt
+// Date: 30-Oct-2018
+// Name: Gayane Babayan
+// ID:   107-061-160
+
+Lab-6 helped me to reuse my previous knowledge about the polymorphism, base and derived classes, also I was able 
+to implement the knowledge about the containers, particularly about the vectors and implement idea of 
+error/exception handling. 
+From one side I could practice the concepts of how to store and manage the polymorphic objects.
+And from the other side it was combined with using an STL vectors, where I could create an vector and store
+the pointers like as an array, where each element points to the new object. 
+After I loop through the each element and could display the elements of my vector, which in this case are objects.
+During Lab-6, I could use again the knowledge or handling errors/ dealing with the exceptions, where if any 
+exception occures, my program throws an appropriate message.
