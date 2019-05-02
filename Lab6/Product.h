@@ -2,7 +2,6 @@
 // File: Product.h
 // Date: 30-Oct-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #ifndef _PRODUCT_H_
 #define _PRODUCT_H_
