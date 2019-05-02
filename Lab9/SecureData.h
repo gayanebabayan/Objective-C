@@ -1,11 +1,3 @@
-// Workshop: Lab-9
-// File: SecureData.h
-// Date: 17-Nov-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
-// Workshop 9 - Multi-Threading
-// SecureData.h
 #ifndef W9_SECUREDATA_H
 #define W9_SECUREDATA_H
 
