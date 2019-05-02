@@ -2,7 +2,6 @@
 // File: Pair.h
 // Date: 23-Sept-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #ifndef SICT_PAIR_H
 #define SICT_PAIR_H
