@@ -1,7 +1,4 @@
-// Workshop-1:    Linkage, Storage Duration, Namespaces, and OS Interface
-// File:          w1.cpp
-// Student:       Gayane Babayan
-// Date:          10-Sept-2018
+// Linkage, Storage Duration, Namespaces, and OS Interface
 
 #include <iostream>
 #include <fstream>
