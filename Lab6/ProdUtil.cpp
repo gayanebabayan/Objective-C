@@ -1,8 +1,3 @@
-// Workshop: Lab-6
-// File: ProdUtil.cpp
-// Date: 30-Oct-2018
-// Name: Gayane Babayan
-
 #include <iostream>
 #include <string>
 #include <cstring>
