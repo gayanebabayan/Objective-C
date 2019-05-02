@@ -2,7 +2,6 @@
 // File: Text.h
 // Date: 16-Sept-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #ifndef ICT_TEXT_H_
 #define ICT_TEXT_H_
