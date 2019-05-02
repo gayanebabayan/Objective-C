@@ -1,9 +1,3 @@
-// Workshop: Lab-6
-// File: iProduct.h
-// Date: 30-Oct-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
 #ifndef W_IPRODUCT_H_
 #define W_IPRODUCT_H_
 
