@@ -1,9 +1,3 @@
-// Workshop: Lab-8
-// File: Utilities.h
-// Date: 15-Nov-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
 #ifndef W8_UTILITIES_H
 #define W8_UTILITIES_H
 #include "List.h"
