@@ -2,7 +2,6 @@
 // File: Grades.h
 // Date: 06-Oct-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #ifndef SICT_GRADES_H
 #define SICT_GRADES_H
