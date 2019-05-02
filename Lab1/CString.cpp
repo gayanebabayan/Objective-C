@@ -1,8 +1,3 @@
-// Workshop: Lab-1
-// File: CString.cpp
-// Date: 10-Sept-2018
-// Name: Gayane Babayan
-
 #include <iostream>
 #include "CString.h"
 
