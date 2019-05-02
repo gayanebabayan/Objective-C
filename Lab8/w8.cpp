@@ -1,6 +1,4 @@
-// Workshop 8 - Smart Pointers
-// w8.cpp
-
+// Smart Pointers
 
 #include <iostream>
 #include <fstream>
@@ -15,8 +13,6 @@ const int FWP = 8;
 
 using namespace w8;
 using namespace std;
-
-
 
 size_t Product::idGenerator = 0;
 bool Product::Trace = true;
@@ -72,9 +68,7 @@ int main(int argc, char** argv)
          cout << "ERROR: " << msg << std::endl;
          cout << "NOTE: An exception occured while creating the list of products!" << endl
             << "      You should notice that not all objects are deleted." << endl;
-      }
-
-      
+      }  
 
       cout << endl;
       cout << "********************************************" << endl
@@ -91,9 +85,6 @@ int main(int argc, char** argv)
             << "      You should notice that ALL objects are deleted." << endl;
       }
 
-
-
-
       Product::Trace = false;
       cout << endl << endl;
       // no exceptions should be generated from the code below.
@@ -104,9 +95,7 @@ int main(int argc, char** argv)
          List<Product> priceList = mergeRaw(desc, priceGood);
          cout << setw(FWD) << "Description" << setw(FWP) << "Price" << endl;
          cout << priceList << endl;
-      }
-      
-
+      }  
 
       cout << "********************************************" << endl
          << "* Merging good prices using Smart Pointers" << endl
