@@ -1,8 +1,3 @@
-// Workshop: Lab-5
-// File: Grades.h
-// Date: 06-Oct-2018
-// Name: Gayane Babayan
-
 #ifndef SICT_GRADES_H
 #define SICT_GRADES_H
 
