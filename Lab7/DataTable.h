@@ -1,9 +1,3 @@
-// Workshop: Lab-7
-// File: Product.h
-// Date: 05-Nov-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
 #ifndef W7_DATATABLE_H
 #define W7_DATATABLE_H                                                              
 
