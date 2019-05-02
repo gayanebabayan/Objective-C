@@ -1,8 +1,3 @@
-// Workshop: Lab-6
-// File: ProdUtil.h
-// Date: 30-Oct-2018
-// Name: Gayane Babayan
-
 #ifndef W6_PRODUTIL_H
 #define W6_PRODUTIL_H
 
