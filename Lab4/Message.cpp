@@ -2,7 +2,6 @@
 // File: Message.cpp
 // Date: 01-Oct-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #include <iostream>
 #include <fstream>
