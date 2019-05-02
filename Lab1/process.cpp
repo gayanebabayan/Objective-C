@@ -1,9 +1,3 @@
-// Workshop: Lab-1
-// File: process.cpp
-// Date: 10-Sept-2018
-// Name: Gayane Babayan
-
-
 #include <iostream>
 #include "process.h"
 #include "CString.h"
