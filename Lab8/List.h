@@ -1,11 +1,3 @@
-// Workshop 8 - Smart Pointers
-// Workshop: Lab-8
-// File: List.h
-// Date: 15-Nov-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
-
 #ifndef W8_LIST_H
 #define W8_LIST_H
 
