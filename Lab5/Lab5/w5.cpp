@@ -1,5 +1,4 @@
-// Workshop 5 - Lambda Expression
-// w5.cpp
+// Lambda Expression
 
 #include <iostream>
 #include "Grades.h"
