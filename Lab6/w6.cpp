@@ -1,9 +1,4 @@
-// Workshop 6 - STL Containers
-// w6.cpp
-
-// Date: 30-Oct-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
+// STL Containers
 
 #include <iostream>
 #include <iomanip>
