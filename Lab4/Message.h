@@ -1,8 +1,3 @@
-// Workshop: Lab-4
-// File: Message.h
-// Date: 01-Oct-2018
-// Name: Gayane Babayan
-
 #ifndef CIST_MESSAGES_H
 #define CIST_MESSAGES_H
 
