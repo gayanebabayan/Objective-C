@@ -2,7 +2,7 @@
 // File: process.cpp
 // Date: 10-Sept-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
+
 
 #include <iostream>
 #include "process.h"
