@@ -1,9 +1,3 @@
-// Workshop: Lab-1
-// File: CString.h
-// Date: 10-Sept-2018
-// Name: Gayane Babayan
-
-// header guards for the "CString.h"
 #ifndef SICT_CSTRING_H_
 #define SICT_CSTRING_H_
 
