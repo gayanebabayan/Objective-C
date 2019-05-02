@@ -1,7 +1,0 @@
-// Workshop: Lab-5
-// File: reflect.txt
-// Date: 10-Oct-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
-It was a bit confusing from the begining and it takes for a while to figure out how to connect Lambda expression
