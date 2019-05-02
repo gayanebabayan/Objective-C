@@ -1,6 +1,4 @@
-// Workshop 7 - STL Algorithms
-// w7.cpp
-// updated by cornel on 18.10.2018
+// STL Algorithms
 
 #include <iostream>
 #include <iomanip>
