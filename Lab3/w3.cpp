@@ -1,7 +1,5 @@
 // Workshop 4 - Templates
 // w4.cpp
-//Author:  Dr. Elliott Coleshill
-//Date:    2018-08-22
 
 #include <iostream>
 #include <iomanip>
