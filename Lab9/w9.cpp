@@ -1,11 +1,4 @@
-// Workshop: Lab-9
-// File: w9.cpp
-// Date: 17-Nov-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
-// Workshop 9 - Multi-Threading
-// w9.cpp
+// Multi-Threading
 
 #include <iostream>
 #include <fstream>
