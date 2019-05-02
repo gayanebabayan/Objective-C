@@ -1,0 +1,23 @@
+﻿  w7.cpp
+c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\datatable.h(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\datatable.h(137): note: while compiling class template member function 'void w7::DataTable<float>::regression(T &,T &) const'
+          with
+          [
+              T=float
+          ]
+  c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\w7.cpp(43): note: see reference to function template instantiation 'void w7::DataTable<float>::regression(T &,T &) const' being compiled
+          with
+          [
+              T=float
+          ]
+  c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\w7.cpp(32): note: see reference to class template instantiation 'w7::DataTable<float>' being compiled
+c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\datatable.h(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\datatable.h(164): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\datatable.h(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\datatable.h(90): note: while compiling class template member function 'float w7::DataTable<float>::sigma(void) const'
+  c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\w7.cpp(52): note: see reference to function template instantiation 'float w7::DataTable<float>::sigma(void) const' being compiled
+c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\datatable.h(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\datatable.h(76): note: while compiling class template member function 'float w7::DataTable<float>::mean(void) const'
+  c:\users\gayane\desktop\3rd semester\oop345\week-7\lab7 - 2ndopt\lab7\w7.cpp(52): note: see reference to function template instantiation 'float w7::DataTable<float>::mean(void) const' being compiled
+  Lab7.vcxproj -> C:\Users\Gayane\Desktop\3rd Semester\OOP345\week-7\LAB7 - 2ndOpt\Lab7\Debug\Lab7.exe
+  Lab7.vcxproj -> C:\Users\Gayane\Desktop\3rd Semester\OOP345\week-7\LAB7 - 2ndOpt\Lab7\Debug\Lab7.pdb (Full PDB)
