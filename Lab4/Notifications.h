@@ -1,8 +1,3 @@
-// Workshop: Lab-4
-// File: Notifications.h
-// Date: 01-Oct-2018
-// Name: Gayane Babayan
-
 #ifndef CIST_NOTIFICATIONS_H
 #define CIST_NOTIFICATIONS_H
 
