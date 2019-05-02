@@ -2,8 +2,6 @@
 // File: Grades.h
 // Date: 06-Oct-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
-
 
 #include <iostream>
 #include <fstream>
