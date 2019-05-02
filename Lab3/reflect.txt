@@ -1,0 +1,8 @@
+// Workshop: Lab-3
+// Date: 27-Sept-2018
+// Name: Gayane Babayan
+// ID:   107-061-160
+
+During this workshop I was able to learn how to create and implement class templates. 
+And the important part is that with the help of class template, 
+I am able to deal with different type of data types.

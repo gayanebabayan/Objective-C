@@ -1,0 +1,8 @@
+﻿  w3.cpp
+c:\users\gayane\desktop\3rd semester\oop345\week-3\lab3\lab3\w3.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\gayane\desktop\3rd semester\oop345\week-3\lab3\lab3\w3.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\gayane\desktop\3rd semester\oop345\week-3\lab3\lab3\w3.cpp(14): warning C4101: 'width': unreferenced local variable
+c:\users\gayane\desktop\3rd semester\oop345\week-3\lab3\lab3\list.h(32): warning C4715: 'List<Pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,double>,5>::operator[]': not all control paths return a value
+c:\users\gayane\desktop\3rd semester\oop345\week-3\lab3\lab3\list.h(32): warning C4715: 'List<Pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >,5>::operator[]': not all control paths return a value
+  Lab3.vcxproj -> C:\Users\Gayane\Desktop\3rd Semester\OOP345\week-3\Lab3\Lab3\Debug\Lab3.exe
+  Lab3.vcxproj -> C:\Users\Gayane\Desktop\3rd Semester\OOP345\week-3\Lab3\Lab3\Debug\Lab3.pdb (Full PDB)
