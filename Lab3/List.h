@@ -1,8 +1,3 @@
-// Workshop: Lab-3
-// File: List.h
-// Date: 23-Sept-2018
-// Name: Gayane Babayan
-
 #ifndef SICT_LIST_H
 #define SICT_LIST_H
 
