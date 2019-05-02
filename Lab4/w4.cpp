@@ -1,5 +1,4 @@
-// Workshop 4 - Containers 
-// w4.cpp 
+// Containers 
 
 #include <iostream> 
 #include <fstream>
