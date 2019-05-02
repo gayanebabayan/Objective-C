@@ -1,9 +1,3 @@
-// Workshop: Lab-6
-// File: TaxableProduct.h
-// Date: 30-Oct-2018
-// Name: Gayane Babayan
-// ID:   107-061-160
-
 #ifndef _TAXABLEPRODUCT_H_
 #define _TAXABLEPRODUCT_H_
 
