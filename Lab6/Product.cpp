@@ -2,7 +2,6 @@
 // File: iProduct.cpp
 // Date: 30-Oct-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #include <iostream>
 #include <string>
