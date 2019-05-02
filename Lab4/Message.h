@@ -2,7 +2,6 @@
 // File: Message.h
 // Date: 01-Oct-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #ifndef CIST_MESSAGES_H
 #define CIST_MESSAGES_H
