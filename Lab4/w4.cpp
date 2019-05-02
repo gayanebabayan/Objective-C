@@ -1,7 +1,6 @@
 // Workshop 4 - Containers 
 // w4.cpp 
-// Author: Dr. Elliott Coleshill 
-// Date: 2018-08-22 
+
 #include <iostream> 
 #include <fstream>
 #include "Message.h" 
