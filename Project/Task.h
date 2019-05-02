@@ -1,13 +1,3 @@
-// Final Project:       MS-3
-// File:                Task.h
-// Name:                Gayane Babayan
-// Seneca Student ID:   107-061-160
-// Seneca email:        gbabayan@myseneca.ca
-// Date of completion:  29-Nov-2018
-//
-// I confirm that I am the only author of this file
-// and the content was created entirely by me.
-
 #include "Item.h"
 #include "CustomerOrder.h"
 #include <deque>
