@@ -1,8 +1,3 @@
-// Workshop: Lab-6
-// File: Product.h
-// Date: 30-Oct-2018
-// Name: Gayane Babayan
-
 #ifndef _PRODUCT_H_
 #define _PRODUCT_H_
 
