@@ -2,7 +2,6 @@
 // File: Notifications.h
 // Date: 01-Oct-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #ifndef CIST_NOTIFICATIONS_H
 #define CIST_NOTIFICATIONS_H
