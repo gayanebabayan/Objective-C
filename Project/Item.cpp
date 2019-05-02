@@ -1,13 +1,3 @@
-// Final Project:       MS-1
-// File:                Item.cpp
-// Name:                Gayane Babayan
-// Seneca Student ID:   107-061-160
-// Seneca email:        gbabayan@myseneca.ca
-// Date of completion:  08-Nov-2018
-//
-// I confirm that I am the only author of this file
-// and the content was created entirely by me.
-
 #include <iostream>
 #include <iomanip>
 #include <string>
