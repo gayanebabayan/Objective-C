@@ -2,7 +2,6 @@
 // File: ProdUtil.h
 // Date: 30-Oct-2018
 // Name: Gayane Babayan
-// ID:   107-061-160
 
 #ifndef W6_PRODUTIL_H
 #define W6_PRODUTIL_H
