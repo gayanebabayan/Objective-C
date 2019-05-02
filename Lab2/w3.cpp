@@ -1,11 +1,8 @@
 // Workshop 2 - Copy and Move Semantics
 // w2.cpp
-// Author:  Dr. Elliott Coleshill
 // Date:    2018-08-31
 // Updated by Cornel -- Changed the timing to nanoseconds and changed namespace
 // Student: Gayane Babayan
-// ID:   107-061-160
-//**
 
 #include <iostream>
 #include <fstream>
