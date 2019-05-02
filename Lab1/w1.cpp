@@ -1,8 +1,6 @@
 // Workshop-1:    Linkage, Storage Duration, Namespaces, and OS Interface
 // File:          w1.cpp
-// Author:        Dr. Elliott Coleshill
 // Student:       Gayane Babayan
-// Student ID:    107-061-160
 // Date:          10-Sept-2018
 
 #include <iostream>
