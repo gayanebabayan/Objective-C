@@ -1,8 +1,3 @@
-// Workshop: Lab-5
-// File: Letter.h
-// Date: 06-Oct-2018
-// Name: Gayane Babayan
-
 #include <iostream>
 #include <string>
 #include <cstring>
